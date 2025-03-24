@@ -1,5 +1,7 @@
 import { useState } from "react";
 import "./App.css";
+import myPhoto from "./assets/photo.jpg";
+
 
 function App() {
     const [messages, setMessages] = useState([]);
@@ -12,7 +14,7 @@ function App() {
             <h1>網路攻防實習</h1>
             
             <figure>
-                <img src="/photo.jpg" alt="Me" width="200" />
+                <img src={myPhoto} alt="Me" width="200" />
                 <figcaption>國立臺灣大學 電機資安所 林峻毅</figcaption>
             </figure>
             
