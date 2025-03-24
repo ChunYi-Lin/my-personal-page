@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChunYi-Lin/my-personal-page/static/css/main.f855e6bc.css",
+    "main.js": "/ChunYi-Lin/my-personal-page/static/js/main.40e5c04f.js",
+    "static/js/453.8740361b.chunk.js": "/ChunYi-Lin/my-personal-page/static/js/453.8740361b.chunk.js",
+    "index.html": "/ChunYi-Lin/my-personal-page/index.html",
+    "main.f855e6bc.css.map": "/ChunYi-Lin/my-personal-page/static/css/main.f855e6bc.css.map",
+    "main.40e5c04f.js.map": "/ChunYi-Lin/my-personal-page/static/js/main.40e5c04f.js.map",
+    "453.8740361b.chunk.js.map": "/ChunYi-Lin/my-personal-page/static/js/453.8740361b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.40e5c04f.js"
+  ]
+}
